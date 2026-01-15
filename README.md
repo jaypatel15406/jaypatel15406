@@ -35,7 +35,7 @@
 
 <b>Languages</b>
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=python,html,go,rust" />
+    <img src="https://skillicons.dev/icons?i=python,html,cpp" />
 </p>
 
 <b>Frameworks & APIs</b>
