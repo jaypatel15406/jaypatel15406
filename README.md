@@ -66,22 +66,15 @@
 ---
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/jaypatel15406/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/JayPatel15406">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/jay_patel_1541/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://discord.gg/jaypatel15406">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://stackoverflow.com/users/11874090/jay-patel">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaypatel15406/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/JayPatel15406)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jay_patel_1541/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/jaypatel15406)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/11874090/jay-patel)
+
 </div>
+
 
 <p align="right">
   <sub>Open to conversations, collaborations, and curious ideas.</sub>
