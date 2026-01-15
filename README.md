@@ -16,7 +16,7 @@
 
 | Left Brain (Logic Mode ON 🧠) | Right Brain (Code in Progress 🚧) |
 |-----------------------------|----------------------------------|
-| 🔍 Exploring the **knowledge horizon of backend systems**, with a curious bias toward **LLMs, GenAI, and automation pipelines**.<br><br>🛠️ Currently **engineering my portfolio from scratch** (yes, the hard way). It’s a work-in-progress, so feel free to **follow and watch this repo evolve** → [Portfolio](https://jaypatel15406.github.io/)<br><br>✍️ Writing ~~regularly~~ **whenever the debugger allows** on Medium → [Medium](https://medium.com/@jaypatel15406)<br><br>🌍 Building a community obsessed with **Finance, Startups & Geopolitics** - decoding signals others ignore → [The Founder’s View](https://www.instagram.com/thefoundersview) | <p align="center"><img src="assets/programmer.gif" alt="programmer at work" width="420"/></p> |
+| 🔍 Exploring the **knowledge horizon of backend systems**, with a curious bias toward **LLMs, GenAI, and automation pipelines**.<br><br>🛠️ Currently **engineering my portfolio from scratch** (yes, the hard way). It’s a work-in-progress, so feel free to **follow and watch this repo evolve** → [Portfolio](https://jaypatel15406.github.io/)<br><br>✍️ Writing ~~regularly~~ **whenever the debugger allows** on Medium → [Medium](https://medium.com/@jaypatel15406)<br><br>🌍 Building a community obsessed with **Finance, Startups & Geopolitics** - decoding signals others ignore → [The Founder’s View](https://www.instagram.com/thefoundersview) | <p align="center"><img src="assets/programmer.gif" alt="programmer at work" width="400"/></p> |
 
 
 ### ✍️ Recent Blog Posts
@@ -68,21 +68,20 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/jaypatel15406/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a> &nbsp;
   <a href="https://x.com/JayPatel15406">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.instagram.com/jay_patel_1541/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a> &nbsp;
   <a href="https://discord.gg/jaypatel15406">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+  </a> &nbsp;
   <a href="https://stackoverflow.com/users/11874090/jay-patel">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
-
 <p align="right">
   <sub>Open to conversations, collaborations, and curious ideas.</sub>
 </p>
