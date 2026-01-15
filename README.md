@@ -65,23 +65,24 @@
 
 ---
 
-<p align="right">
+<div align="right">
   <a href="https://www.linkedin.com/in/jaypatel15406/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> &nbsp;
+  </a>
   <a href="https://x.com/JayPatel15406">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a> &nbsp;
+  </a>
   <a href="https://www.instagram.com/jay_patel_1541/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a> &nbsp;
+  </a>
   <a href="https://discord.gg/jaypatel15406">
     <img src="https://skillicons.dev/icons?i=discord" />
-  </a> &nbsp;
+  </a>
   <a href="https://stackoverflow.com/users/11874090/jay-patel">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
-</p>
+</div>
+
 <p align="right">
   <sub>Open to conversations, collaborations, and curious ideas.</sub>
 </p>
