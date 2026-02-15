@@ -22,10 +22,10 @@
 ### ✍️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Data to Decisions: How AI is Changing the Business Landscape](https://jaypatel15406.medium.com/from-data-to-decisions-how-ai-is-changing-the-business-landscape-167c3c1f8a1d)
-- [Do you really know all about “Data”?](https://jaypatel15406.medium.com/do-you-really-know-all-about-data-79fec911ec63)
-- [A Day with Cloud at Google Cloud Community Day Ahmedabad](https://jaypatel15406.medium.com/a-day-with-cloud-at-google-cloud-community-day-ahmedabad-1409ca38ee3e)
-- [Open Source Contribution Without Coding to Make the Internet Better Place](https://jaypatel15406.medium.com/open-source-contribution-without-coding-to-make-the-internet-better-place-with-crowdsource-by-85b8b7c08d6e)
+- [From Data to Decisions: How AI is Changing the Business Landscape](https://jaypatel15406.medium.com/from-data-to-decisions-how-ai-is-changing-the-business-landscape-167c3c1f8a1d?source=rss-c5e8d69bc0a8------2)
+- [Do you really know all about “Data”?](https://jaypatel15406.medium.com/do-you-really-know-all-about-data-79fec911ec63?source=rss-c5e8d69bc0a8------2)
+- [A Day with Cloud at Google Cloud Community Day Ahmedabad](https://jaypatel15406.medium.com/a-day-with-cloud-at-google-cloud-community-day-ahmedabad-1409ca38ee3e?source=rss-c5e8d69bc0a8------2)
+- [Open Source Contribution Without Coding to Make the Internet Better Place with “Crowdsource By…](https://jaypatel15406.medium.com/open-source-contribution-without-coding-to-make-the-internet-better-place-with-crowdsource-by-85b8b7c08d6e?source=rss-c5e8d69bc0a8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
